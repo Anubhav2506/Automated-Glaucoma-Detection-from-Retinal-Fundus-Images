@@ -311,7 +311,7 @@ The complete **15-page academic project report** with in-depth statistical break
 
 ## Author & Acknowledgments
 
-- **Lead Developer & Researcher:** **Anubhav Yadav** ([@Anubhav2506](https://github.com/Anubhav2506))
+- **Developer & Researcher:** **Anubhav yadav** ([@Anubhav2506](https://github.com/Anubhav2506))
 - **Institution:** Department of Computer Science & Engineering, Thapar Institute of Engineering & Technology, Patiala
 - **Academic Guidance:** Dr. Sushma Jain
 
