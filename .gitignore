@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual Environments
+venv/
+env/
+.venv/
+
+# Large dataset archives & unpacked data
+/data/
+/glaucoma_dataset/
+*.zip
+*.keras
+*.h5
+kaggle.json
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
